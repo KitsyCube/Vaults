@@ -1,5 +1,5 @@
 
-{Bring}
+Bring
 - [ ] Camera
 
 {Inside}
