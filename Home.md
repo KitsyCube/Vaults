@@ -25,3 +25,10 @@ cssclasses:
 >class success-button
 >```
 
+```button
+name 😊 Log Daily Emotions  
+color yellow  
+size large  
+action command  
+command modalforms:open-form
+```
