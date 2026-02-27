@@ -1,4 +1,0 @@
----
-cssClasses:
-  - wide-page
----

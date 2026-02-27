@@ -1,3 +1,7 @@
+---
+cssclasses:
+  - wide-
+---
 
 > [!start-menu]
 >```button
