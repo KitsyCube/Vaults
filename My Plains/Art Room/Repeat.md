@@ -1,7 +1,7 @@
 
 ***Obey Me!***
 **―**―**―**―**―**―**―**―**―**―**―**―**―**―**―**―**―**―**―**―**―**
-- Beelzebub 11th March
+- Beelzebub 11th March{.angel}
 - Belphegor 11th March
 - Leviathan 9th April
 - Asmodeus 15th May
