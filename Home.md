@@ -31,5 +31,6 @@ color yellow
 size large  
 action command  
 command modalforms:open-form
-params {"formName":"Daily Emotions"}
+params {"formName":"Example form"}
 ```
+
