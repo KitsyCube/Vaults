@@ -1,6 +1,6 @@
 ---
 cssclasses:
-  - wide-
+  - wide-page
 ---
 
 > [!start-menu]
