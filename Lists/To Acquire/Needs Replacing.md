@@ -1,3 +1,3 @@
 
 - [ ] Mouse
-- [ ] Keyboard
+- [ ] Desk Mat
