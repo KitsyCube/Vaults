@@ -1,2 +1,3 @@
 
-- [ ] Pichi pichi pich Mermaid Melody
+- [ ] Pichi pichi pitch Mermaid Melody
+- [ ] Seishun Buta Yarō
