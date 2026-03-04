@@ -1,2 +1,2 @@
 
-- [ ] Pichi pichi pichi Mermaid Melody
+- [ ] Pichi pichi pich Mermaid Melody
