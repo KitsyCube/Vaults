@@ -1,4 +1,5 @@
 A feeling like a dark ocean draining, and has always been draining, and i try to top it up with coffee or distraction, but it's an endless pull inward of nothing. The feeling of effort in standing up.
 Put the music on, music to wallow to. This is hard, but it will pass. You search for the energy to look to the sky again, and see space between myself and the clouds, or an endless nothing, filled with *everything*. 
 i think i'll look up to the sky now. You need space. i don't want to take any up, so i will take it all in. Let me grow inside as a greenhouse, housing a garden that will never wither. 
-Just, right now, it is overwhelming in an empty
+Just, right now, it is overwhelming in an empty meadow field. The start from nothing always is, isn't it? 
+Look at the space and breath it in. You can figure it out slowly.
