@@ -1,2 +1,2 @@
 
-- Griande / Fanart Grian
+- Griande / Pretty girl fanart Grian
