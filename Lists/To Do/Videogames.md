@@ -18,4 +18,9 @@
 > - [ ] Odin Sphere
 > - [ ] Timesplitters 2 %% #series %%
 > - [ ] Haunting Ground
+> - [ ] Kuon
+> - [ ] Rule of Rose
+> - [ ] Fatal Frame
+> - [ ] Siren / Forbidden Siren 
+
 
