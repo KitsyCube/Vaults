@@ -5,7 +5,7 @@ Play Station
 
 >[!todo]+ Play Station 2 %% #Play_Station #Play_Station_2 %%
 > - [ ] Ico
-> - [ ] Valkyrie Profile 2 %% #Valkyrie_Profile %%
+> - [ ] Valkyrie Profile 2 %% #Multi %%
 > - [ ] Haunting Grounds
 > - [ ] Final Fantasy 12 %% #Final_Fantasy %%
 > - [ ] Shadow of the Colossus
