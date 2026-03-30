@@ -3,7 +3,7 @@ Play Station
 - [ ] Valkyrie Profile
 
 
->[!todo] Play Station 2 %% #Play_Station #Play_Station_2 %%
+>[!todo]+ Play Station 2 %% #Play_Station #Play_Station_2 %%
 > - [ ] Ico
 > - [ ] Valkyrie Profile 2 %% #Valkyrie_Profile %%
 > - [ ] Haunting Grounds
