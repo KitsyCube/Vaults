@@ -23,4 +23,7 @@
 > - [ ] Fatal Frame
 > - [ ] Siren / Forbidden Siren 
 
+>[!todo]- Dreamcast
+>- [ ] Napple Tale
+>- [ ] 
 
