@@ -3,5 +3,5 @@ Food
 - [ ] Bacalaitos
 
 Dessert
-- [ ] Brownie in Ice cream
+- [ ] Brownie Ice cream
 - [ ] Pecans
