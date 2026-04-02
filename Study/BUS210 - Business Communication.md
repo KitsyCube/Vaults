@@ -62,3 +62,6 @@ In five years, i'd like to be overseas in Puerto Rico, studying <u>likely</u> bu
 
 ————————————————————
 
+The most time-honoured form of communication is story telling, and we use communications always in similar ways. Using the understanding of yourself, your message, and how you communicate it to an audience who is doing the same. Anticipation, reaction, and adaptation to the process determines if you are successful.
+
+Communication is a m
