@@ -64,4 +64,20 @@ In five years, i'd like to be overseas in Puerto Rico, studying <u>likely</u> bu
 
 The most time-honoured form of communication is story telling, and we use communications always in similar ways. Using the understanding of yourself, your message, and how you communicate it to an audience who is doing the same. Anticipation, reaction, and adaptation to the process determines if you are successful.
 
-Communication is a m
+Communication is a muscle, something that is learned over time, with preparation, practice, and persistence. Of many ways to learn these skills, the school of experience, or "hard knocks", is one. But in a business environment, a "knock" can come at an expense like credibility. In the classroom is much easier, using it as somewhere for trial and error, learning to more effectively use them in a safer place before a more important and risky area.
+
+————————————————————
+
+Learning Objectives
+1. Recognize the importance of communication in gaining a better understanding of yourself and others.
+2. Explain how communication skills help you solve problems, learn new things, and build your career.
+
+Business communication can be thought of as problem solving, addressing:
+- What is the situation?
+- What are some possible communication strategies?
+- What is the best course of action?
+- What is the best way to design the chosen message?
+- What is the best way to deliver the message?
+
+**Communication Influences Your Thinking about Yourself and Others**
+There's meaning in many ways: writing enjoyment, ease of talking on the phone or an audience, responses to feedback, 
