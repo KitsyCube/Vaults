@@ -1,11 +1,11 @@
 ---
-banner:
+banner: "[[PI-Longest-Website-Banners-Communication.jpg]]"
 ---
 
 
 ---
 
->[!note]- Learning Outcomes
+>[!note]- Course Learning Outcomes
 >- Explain why effective communication is important in a corporate environment;
 >- Apply theories and observations of verbal communication to real-world communication challenges;
 >- Analyze yourself and your audience using what you know about perception;
@@ -18,6 +18,7 @@ banner:
 >- Solve problems and run productive meetings by understanding groups, teams, and leadership.
 
 ---
+
 - **Unit 1:** Introduction to Business Communication
 - **Unit 2:** Delivering Your Message
 - **Unit 3:** Understanding Your Audience
@@ -31,7 +32,7 @@ banner:
 ---
 ## Unit 1: Introduction to Business Communication
 
->[!note]- Learning Outcomes
+>[!note]- Unit Learning Outcomes
 >1. discuss the importance of practicing proper communication skills in business;
 >2. match the eight communication process components to their respective functions or characteristics;
 >3. describe the distinguishing features of intrapersonal, interpersonal, group, public, and mass communication contexts;
@@ -41,16 +42,23 @@ banner:
 ### Effective Business Communication
 These sections will emphasize how communication forms a part of your self-concept, helping understand yourself and others, solve problems, learn new things, and build a career.
 
+———————————————————— #goals
+
 1) Five words expressing what i want to do and where i want to be *one* year from now.
 - vendor
 - markets
 - artist
 - conventions
-- online 
- In one year, i'd like to be able to more smoothly navigate communications with vendors, market planners, and convention/events managers, and have a presence in the online sphere. Within these, i hope to begin selling art through sales and commissions as an entrepreneur artist.
+- online
+In one year, i'd like to be able to more smoothly navigate communications with vendors, market planners, and convention/events managers, and have a presence in the online sphere. Within these, i hope to begin selling art through sales and commissions as an entrepreneur artist.
 
 2) Five words expressing what i want to do and where i want to be *five* years from now.
-- conventions
-- university
 - overseas
-- 
+- university
+- conventions
+- commissions
+- café
+In five years, i'd like to be overseas in Puerto Rico, studying <u>likely</u> business in university. I'd still like to be doing conventions and commissions, with a much larger presence / success. But why i'm studying business at all, apart from it being a good road to study and/or live in Puerto Rico, is having a better foundation for starting my own floriagraphic café with my partner.
+
+————————————————————
+
