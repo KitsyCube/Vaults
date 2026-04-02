@@ -26,3 +26,12 @@
 - **Unit 9:** Group Communication, Teamwork, and Leadership
 
 ---
+## Unit 1: Introduction to Business Communication
+
+>[!note]- Learning Outcomes
+>1. discuss the importance of practicing proper communication skills in business;
+ 2. match the eight communication process components to their respective functions or characteristics;
+2.describe the distinguishing features of intrapersonal, interpersonal, group, public, and mass communication contexts;
+2.explain the differences between the transactional and constructivist models of communication;
+2.outline the challenges associated with the two primary responsibilities of a business communicator: being ethical and being prepared;
+2.explain how the three parts of communication (verbal, nonverbal, and tone) affect effective communication.
