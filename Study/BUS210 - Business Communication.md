@@ -30,8 +30,12 @@
 
 >[!note]- Learning Outcomes
 >1. discuss the importance of practicing proper communication skills in business;
- 2. match the eight communication process components to their respective functions or characteristics;
-2.describe the distinguishing features of intrapersonal, interpersonal, group, public, and mass communication contexts;
-2.explain the differences between the transactional and constructivist models of communication;
-2.outline the challenges associated with the two primary responsibilities of a business communicator: being ethical and being prepared;
-2.explain how the three parts of communication (verbal, nonverbal, and tone) affect effective communication.
+>2. match the eight communication process components to their respective functions or characteristics;
+>3. describe the distinguishing features of intrapersonal, interpersonal, group, public, and mass communication contexts;
+>4. explain the differences between the transactional and constructivist models of communication;
+>5. outline the challenges associated with the two primary responsibilities of a business communicator: being ethical and being prepared;
+>6. explain how the three parts of communication (verbal, nonverbal, and tone) affect effective communication.
+### Effective Business Communication
+These sections will emphasize how communication forms a part of your self-concept, helping understand yourself and others, solve problems, learn new things, and build a career.
+
+Five words expressing what i want to do and where i want to be a year from now
