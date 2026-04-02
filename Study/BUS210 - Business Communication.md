@@ -1,3 +1,6 @@
+---
+banner:
+---
 
 
 ---
@@ -38,4 +41,16 @@
 ### Effective Business Communication
 These sections will emphasize how communication forms a part of your self-concept, helping understand yourself and others, solve problems, learn new things, and build a career.
 
-Five words expressing what i want to do and where i want to be a year from now
+1) Five words expressing what i want to do and where i want to be *one* year from now.
+- vendor
+- markets
+- artist
+- conventions
+- online 
+ In one year, i'd like to be able to more smoothly navigate communications with vendors, market planners, and convention/events managers, and have a presence in the online sphere. Within these, i hope to begin selling art through sales and commissions as an entrepreneur artist.
+
+2) Five words expressing what i want to do and where i want to be *five* years from now.
+- conventions
+- university
+- overseas
+- 
