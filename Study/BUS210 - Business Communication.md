@@ -2,7 +2,6 @@
 banner: "[[PI-Longest-Website-Banners-Communication.jpg]]"
 ---
 
-
 ---
 
 >[!note]- Course Learning Outcomes
@@ -40,6 +39,7 @@ banner: "[[PI-Longest-Website-Banners-Communication.jpg]]"
 >5. outline the challenges associated with the two primary responsibilities of a business communicator: being ethical and being prepared;
 >6. explain how the three parts of communication (verbal, nonverbal, and tone) affect effective communication.
 ### Effective Business Communication
+
 These sections will emphasize how communication forms a part of your self-concept, helping understand yourself and others, solve problems, learn new things, and build a career.
 
 ———————————————————— #goals
@@ -64,7 +64,7 @@ In five years, i'd like to be overseas in Puerto Rico, studying <u>likely</u> bu
 
 The most time-honoured form of communication is story telling, and we use communications always in similar ways. Using the understanding of yourself, your message, and how you communicate it to an audience who is doing the same. Anticipation, reaction, and adaptation to the process determines if you are successful.
 
-Communication is a muscle, something that is learned over time, with preparation, practice, and persistence. Of many ways to learn these skills, the school of experience, or "hard knocks", is one. But in a business environment, a "knock" can come at an expense like credibility. In the classroom is much easier, using it as somewhere for trial and error, learning to more effectively use them in a safer place before a more important and risky area.
+Communication is a muscle, something that is learned over time, with preparation, practice, and persistence. Of many ways to learn these skills, the school of experience, or "hard knocks", is one. But in a business environment, a "knock" can come at an expense like credibility. Within the classroom is much easier, using it as somewhere for trial and error, learning to more effectively use them in a safer place before a more important and risky area.
 
 ————————————————————
 
@@ -80,4 +80,42 @@ Business communication can be thought of as problem solving, addressing:
 - What is the best way to deliver the message?
 
 **Communication Influences Your Thinking about Yourself and Others**
-There's meaning in many ways: writing enjoyment, ease of talking on the phone or an audience, responses to feedback, 
+There's meaning and skill in many ways of communication: writing enjoyment, ease of talking on the phone or an audience, responses to feedback, fashion, acessories, texting, tone, etc.
+And there's also skills to understand: words, tone, nonverbal gestures, format of text/documents, active listening/reading.
+
+**Communications Influences How You Learn**
+It is a muscle; trial and error and feedback.
+<font color="#7f7f7f">There's more that this could lead to that's actually really interesting i'm sure, but it's not written.</font> #interestingresearch
+
+**Communication Represents You and Your Employer**
+
+**Communication Skills Are Desired by Business and Industry**
+Proficiency is consistently ranked in the top ten desirable skills by employer surveys, year after year. Along with:
+- Communications skills (verbal and written)
+- Strong work ethic
+- Teamwork skill (works well with others, group communication)
+- Initiative
+- Analytical skills
+
+> [!quote]+
+> In September 2004, the National Commission on Writing for America's Families, Schools, and Colleges published a study on 120 human resource directors titled Writing: A Ticket to Work…Or a Ticket Out, A Survey of Business Leaders. The study found that "writing is both a 'marker' of high-skill, high-wage, professional work and a 'gatekeeper' with clear equity implications," said Bob Kerrey, president of New School University in New York and chair of the commission. "People unable to express themselves clearly in writing limit their opportunities for professional, salaried employment". Writing skills necessary for employment, says big business: Writing can be a ticket to professional jobs, says blue-ribbon group.
+
+
+**Key Takeaway**
+Communication forms a part of your self-concept, and it helps you understand yourself and others, solve problems and learn new things, and build your career.
+
+1)  Script for "cold call", asking someone whether they're familiar with a new restaurant just opened in the neighbourhood:
+
+Me: Hello hello! I'm calling, asking if you know of the new restaurant that just opened in the neighbourhood?
+
+	Them: No. (Interested)
+		Me: It's a cozy new café that sells flowers! It's the perfect place to enjoy a meal with coffee or tea and relax, and there's always fresh bread and pastries in the mornings. 
+		Them: Ooh? (Interested)
+		Me: We're having opening discounts this and next week, and some small events in the evenings of those Saturdays. If you'd like to try our cozy establishment i welcome you! I'd appreciate your presence, for a long brunch or even a pop-in for the events.
+		Them: That sounds delightful! Where exactly are you?
+		Me: We're at (   ), and have a pretty sign with our name, (   ). I hope to see you! Thank you for your time.
+		Them: Yes! I might visit, thank you for the call.
+	 - - - - - - - - - - - - -
+	Them: No. (Uninterested)
+		Me: I'm sorry for taking up your time then. We're a cozy café, and are having an opening discount this week and the next, and we're called (    )
+
