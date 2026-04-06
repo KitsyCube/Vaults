@@ -1,11 +1,11 @@
 
 Bag accessories 
 ```cardlink
-url: https://www.goretroid.com/collections/frontpage/products/retroid-pocket-flip-2?sca_ref=3519372.s84pGZxN5Y&sca_source=written&ref=retrododo.com
-title: "Retroid Pocket Flip 2 Handheld"
-description: "Retroid Pocket Flip 2 Specs &amp; Features: 1. SD865      CPU: 1*A77@2.8G 3*A77@2.4G 4*A55@1.8G     GPU: Adreno 650     RAM: 8GB LPDDR4x@2133MHz     Storage: 128GB UFS 3.1 + TF Card Slot     OS: Android 13 2. Screen: 5.5 inch, AMOLED, 1080p@60fps 3. Heat Dissipation: Active-cooling 4. 5000mAh battery 5. Analog L2/R2 6."
-host: www.goretroid.com
-image: http://www.goretroid.com/cdn/shop/files/2_7f320e76-03a9-4ba2-8036-a099a7089245_1200x1200.jpg?v=1741931343
+url: https://www.ayntec.com/products/ayn-thor?variant=46692546445504&ref=retrododo.com
+title: "AYN Thor (Batch 5 Pre-order)"
+description: "AYN Thor: Exclusively 6'' AMOLED Dual Screen Gaming HandheldQualcomm Snapdragon CPU | Customized Full HD 6\" AMOLED Touch Screen | 3.92\" AMOLED Touch Display (Bottom Screen) | Android 13 | 6000mAh Battery | Hall Sticks |  Lite=SD865 8+128GBBase=8Gen2 8+128GBPro= 8Gen2 12+256GBMax=8Gen2 16+1TB Notice: There are no games"
+host: www.ayntec.com
+image: http://www.ayntec.com/cdn/shop/files/4fe40f089696834c4906303a743d01c5_d891fc5b-3473-449a-85c1-56663e291fcf_1200x1200.jpg?v=1755855604
 ```
 
 
