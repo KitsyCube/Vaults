@@ -117,5 +117,6 @@ Me: Hello hello! I'm calling, asking if you know of the new restaurant that just
 		Them: Yes! I might visit, thank you for the call.
 	 - - - - - - - - - - - - -
 	Them: No. (Uninterested)
-		Me: I'm sorry for taking up your time then. We're a cozy café, and are having an opening discount this week and the next, and we're called (    )
+		Me: I'm sorry for taking up your time then. We're a cozy café, and are having an opening discount this week and the next. We're called (    ) if you find yourself in the area and care to have some tea or coffee. May you have a wonderful rest of your day.
 
+2) In that it is very much anchored as an artform here, responding to players' reactions and anticipating even their anticipations. It involves planned and improvisational communication, with understanding story and the characters, and the
