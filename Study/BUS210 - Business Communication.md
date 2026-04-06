@@ -119,4 +119,23 @@ Me: Hello hello! I'm calling, asking if you know of the new restaurant that just
 	Them: No. (Uninterested)
 		Me: I'm sorry for taking up your time then. We're a cozy café, and are having an opening discount this week and the next. We're called (    ) if you find yourself in the area and care to have some tea or coffee. May you have a wonderful rest of your day.
 
-2) In that it is very much anchored as an artform here, responding to players' reactions and anticipating even their anticipations. It involves planned and improvisational communication, with understanding story and the characters, and the
+2) Dungeon Master
+   
+   Café Events
+   
+   (Café location)
+   
+   Contract/Part-Time
+   
+   Organizer, narrator, world-building
+   
+   Except on certain occasions, you will be required to be on site at the required times.
+   ———
+   We're a new cozy café + floriographer, opened merely ( ) weeks ago. 
+   Running as a normal café would be, if not more involved in the menu, the aesthetics, and to be events.
+   As well are a flower store, for we have the inclination in growing flowers and gardening in general.
+   We are a hospitality industry, service customers.
+   
+   
+   How this job description involves communication skills:
+   In that it is very much anchored as an artform here, responding to players' reactions and anticipating even their anticipations. It involves planned and improvisational communication, with understanding story, a fundamental root in communication, and the characters, and the players' involvement which cannot be perfectly planned for.
