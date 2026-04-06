@@ -119,22 +119,22 @@ Me: Hello hello! I'm calling, asking if you know of the new restaurant that just
 	Them: No. (Uninterested)
 		Me: I'm sorry for taking up your time then. We're a cozy café, and are having an opening discount this week and the next. We're called (    ) if you find yourself in the area and care to have some tea or coffee. May you have a wonderful rest of your day.
 
-2) Dungeon Master
+2) Job Title: Dungeon Master
    
-   Café Events
+   Location: (Café location)
    
-   (Café location)
-   
-   Contract/Part-Time
+   Role Type: Contract/Part-Time
    
    Organizer, narrator, world-building
    
    Except on certain occasions, you will be required to be on site at the required times.
    ———
    We're a new cozy café + floriographer, opened merely ( ) weeks ago. 
-   Running as a normal café would be, if not more involved in the menu, the aesthetics, and to be events.
-   As well are a flower store, for we have the inclination in growing flowers and gardening in general.
-   We are a hospitality industry, service customers.
+   Running as a normal café, we are as well more involved in the menu, the aesthetics, and the to be events.
+   As well we are a flower store, for we have the inclination in growing flowers and gardening in general.
+   We are a hospitality industry, service our customers with kindness and mirth, in ways that we hope to cultivate a friendly environment with always friendly faces and regulars visiting us.
+   
+   
    
    
    How this job description involves communication skills:
