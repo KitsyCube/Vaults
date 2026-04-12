@@ -3,6 +3,8 @@
 
 
 > [!note] First Bun Commands Schedule
-> adfa
 > 
+> 	[ I'm bored... Strip ]
+> 	
+> 	
 
