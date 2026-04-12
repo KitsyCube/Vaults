@@ -5,13 +5,14 @@
 > [!note] First Bun Commands Schedule
 > 
 > 	[ I'm bored... Strip ]
-> 	[ Life your hips for me, Love ]
-> 
-> 	
+> 	[ Lift your hips for me, Love ]
+> 	[ Give me a good fucking, Sweatheart ]
+> 	[ Time to sleep Cutes~ I want to dream of us together, ok? ]
 > 
 > Breakfast
 > Lunchies
 > Nap
+> Shower
 > Exercise
 > Writing
 > Beads
