@@ -5,6 +5,15 @@
 > [!note] First Bun Commands Schedule
 > 
 > 	[ I'm bored... Strip ]
+> 	[ Life your hips for me, Love ]
+> 
 > 	
-> 	
+> 
+> Breakfast
+> Lunchies
+> Nap
+> Exercise
+> Writing
+> Beads
+> 
 
