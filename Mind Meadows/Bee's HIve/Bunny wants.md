@@ -1,3 +1,3 @@
 
 Jewellery 
-- Royal blue, slightly shiny?, 
+- Royal blue, slightly shiny?, 'bright' 
