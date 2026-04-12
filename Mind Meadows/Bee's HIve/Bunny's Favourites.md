@@ -1,10 +1,10 @@
 
 Food
-- [ ] Bacalaitos
+- Bacalaitos
 
 Dessert
-- [ ] Brownie Ice cream
-- [ ] Pecans
+- Brownie Ice cream
+- Pecans
 
 Jewellery 
-- Gold  Silver 
+- Gold > Silver 
