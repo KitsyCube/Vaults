@@ -182,6 +182,8 @@ Importance at the Workplace
 - Quality of relationship between boss, colleagues and clients
 - Central to harmonious work place → self confidence and job satisfaction
 
+Employers rate candidate soft skills/qualities<font color="#7f7f7f"> in order of importance</font>
+1. Ability to verbally communicate with persons inside and outside 
 
 
 #### The Categories of Communication
