@@ -134,7 +134,7 @@ Me: Hello hello! I'm calling, asking if you know of the new restaurant that just
    As well we are a flower store, for we have the inclination in growing flowers and gardening in general.
    We are a hospitality industry, service our customers with kindness and mirth, in ways that we hope to cultivate a friendly environment with always friendly faces and regulars visiting us.
    
-   
+   Work will mainly be in the caféYou'll be called in every Friday and Saturday to host one shots and continue ongoing campaigns. Meeting new players, helping set up 
    
    
    How this job description involves communication skills:
