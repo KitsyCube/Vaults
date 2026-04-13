@@ -38,7 +38,8 @@ banner: "[[PI-Longest-Website-Banners-Communication.jpg]]"
 >4. explain the differences between the transactional and constructivist models of communication;
 >5. outline the challenges associated with the two primary responsibilities of a business communicator: being ethical and being prepared;
 >6. explain how the three parts of communication (verbal, nonverbal, and tone) affect effective communication.
-### Effective Business Communication
+### Why is it Important to Communicate Well?
+Effective Business Communication
 
 These sections will emphasize how communication forms a part of your self-concept, helping understand yourself and others, solve problems, learn new things, and build a career.
 
@@ -141,12 +142,27 @@ Me: Hello hello! I'm calling, asking if you know of the new restaurant that just
    
    Researching, writing, designing, and customizing worlds, characters and stories, and performing engaging sessions of collaborative play within them, together with player/s, where you are the central facilitator of the story, managing players and group dynamics, becoming a storyteller, and a mouth piece to voice an unfolding story that the players help create together with you through action, word, research and world. 
    
-   Apart from this, you will manage session scheduling, keep communications with players, help mediate disputes, and most importantly, create havens of enjoyment and comfortability for players.  Duties and Responsibilities
-   Campaign Research, Planning and Design
-   Progress Through Story, Adventure, and Play, Through Roleplay and Story Telling
+   Apart from this, you will manage session scheduling, keep communications with players, help mediate disputes, and most importantly, create havens of enjoyment and comfortability for players.
+   
+   Duties and Responsibilities
+   - Campaign Research, Planning and Design
+   - Narrate Story, Adventure, and Play, Through Roleplay and Story Telling
    
    Required Skills
-   
-   
+   - Time Management
+   - Public Speaking
+   - Conflict Resolution
+   - Interpersonal Skills
+   - Communications
+   - Improvisation
+   - Voice Acting
+   - Knowledge in DnD mechanics
+   - Imaginative mind
+   - Story Writing/Telling
+   - Craft Skills for the table and pieces, that would facilitate more enjoyment in play
+
+
+
+Job Description Note - 
    How this job description involves communication skills:
    In that it is very much anchored as an artform here, responding to players' reactions and anticipating even their anticipations. It involves planned and improvisational communication, with understanding story, a fundamental root in communication, and the characters, and the players' involvement which cannot be perfectly planned for.
