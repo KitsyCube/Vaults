@@ -170,4 +170,26 @@ Job Description Note -
 
 #### What is Communication, and Why Does it Matter?
 
-1.2 What is Communciation
+## 1.2 What is Communciation?
+#### What is Communication?
+
+Communication is interaction to exchange information, feelings, or emotion, + or intention. It is all pervasive.
+Effective Communication = Success in Career + Productive Relationship.
+
+Importance at the Workplace
+- Highest hiring criteria
+- Determines hiring, job retention, and promotions
+- Quality of relationship between boss, colleagues and clients
+- Central to harmonious work place → self confidence and job satisfaction
+
+
+
+#### The Categories of Communication
+
+
+
+#### The Shannon and Weaver Mo
+
+
+
+#### How Does Communication Work?
