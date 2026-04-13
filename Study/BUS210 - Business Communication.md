@@ -38,7 +38,7 @@ banner: "[[PI-Longest-Website-Banners-Communication.jpg]]"
 >4. explain the differences between the transactional and constructivist models of communication;
 >5. outline the challenges associated with the two primary responsibilities of a business communicator: being ethical and being prepared;
 >6. explain how the three parts of communication (verbal, nonverbal, and tone) affect effective communication.
-### Why is it Important to Communicate Well?
+### 1.1 Why is it Important to Communicate Well?
 #### Effective Business Communication
 
 These sections will emphasize how communication forms a part of your self-concept, helping understand yourself and others, solve problems, learn new things, and build a career.
@@ -170,3 +170,4 @@ Job Description Note -
 
 #### What is Communication, and Why Does it Matter?
 
+1.2 What is Communciation
