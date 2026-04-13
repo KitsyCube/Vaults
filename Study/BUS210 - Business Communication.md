@@ -39,7 +39,7 @@ banner: "[[PI-Longest-Website-Banners-Communication.jpg]]"
 >5. outline the challenges associated with the two primary responsibilities of a business communicator: being ethical and being prepared;
 >6. explain how the three parts of communication (verbal, nonverbal, and tone) affect effective communication.
 ### Why is it Important to Communicate Well?
-Effective Business Communication
+#### Effective Business Communication
 
 These sections will emphasize how communication forms a part of your self-concept, helping understand yourself and others, solve problems, learn new things, and build a career.
 
@@ -166,3 +166,7 @@ Me: Hello hello! I'm calling, asking if you know of the new restaurant that just
 Job Description Note - 
    How this job description involves communication skills:
    In that it is very much anchored as an artform here, responding to players' reactions and anticipating even their anticipations. It involves planned and improvisational communication, with understanding story, a fundamental root in communication, and the characters, and the players' involvement which cannot be perfectly planned for.
+
+
+#### What is Communication, and Why Does it Matter?
+
