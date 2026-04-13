@@ -128,13 +128,14 @@ Me: Hello hello! I'm calling, asking if you know of the new restaurant that just
    Organizer, narrator, world-building
    
    Except on certain occasions, you will be required to be on site at the required times.
-   ———
+   
    We're a new cozy café + floriographer, opened merely ( ) weeks ago. 
    Running as a normal café, we are as well more involved in the menu, the aesthetics, and the to be events.
    As well we are a flower store, for we have the inclination in growing flowers and gardening in general.
    We are a hospitality industry, service our customers with kindness and mirth, in ways that we hope to cultivate a friendly environment with always friendly faces and regulars visiting us.
    
-   Work will mainly be in the caféYou'll be called in every Friday and Saturday to host one shots and continue ongoing campaigns. Meeting new players, helping set up 
+   Your role will be as a Dungeon Master of Dungeons and Dragons, facilitating campaigns with 
+   You will be writing, designing, and customizing worlds, characters and stories, and performing engaging sessions of collaborative play within them, together with player/s, where you are the central facilitator of 
    
    
    How this job description involves communication skills:
