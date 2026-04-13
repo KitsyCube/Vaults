@@ -119,15 +119,15 @@ Me: Hello hello! I'm calling, asking if you know of the new restaurant that just
 	Them: No. (Uninterested)
 		Me: I'm sorry for taking up your time then. We're a cozy café, and are having an opening discount this week and the next. We're called (    ) if you find yourself in the area and care to have some tea or coffee. May you have a wonderful rest of your day.
 
-2) Job Title: Dungeon Master
+2) Job Title: 
+   Dungeon Master
    
-   Location: (Café location)
+   Location: 
+   (Café location)
    
-   Role Type: Contract/Part-Time
-   
-   Organizer, narrator, world-building
-   
-   Except on certain occasions, you will be required to be on site at the required times.
+   Role Type: 
+   Part-Time
+   On site on Fridays, Saturdays, Sundays, scheduled events, and scheduled 
    
    We're a new cozy café + floriographer, opened merely ( ) weeks ago. 
    Running as a normal café, we are as well more involved in the menu, the aesthetics, and the to be events.
@@ -138,7 +138,8 @@ Me: Hello hello! I'm calling, asking if you know of the new restaurant that just
    
    Researching, writing, designing, and customizing worlds, characters and stories, and performing engaging sessions of collaborative play within them, together with player/s, where you are the central facilitator of the story, managing players and group dynamics, becoming a storyteller, and a mouth piece to voice an unfolding story that the players help create together with you through action, word, research and world. 
    
-   Apart from this, you will keep communications with players, help mediate disputes
+   Apart from this, you will manage session scheduling, keep communications with players, help mediate disputes, and most importantly, create havens of enjoyment and comfortability for players.
+   
    
    
    How this job description involves communication skills:
