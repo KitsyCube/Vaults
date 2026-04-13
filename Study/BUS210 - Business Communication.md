@@ -127,19 +127,25 @@ Me: Hello hello! I'm calling, asking if you know of the new restaurant that just
    
    Role Type: 
    Part-Time
-   On site on Fridays, Saturdays, Sundays, scheduled events, and scheduled 
+   On-site on Fridays, Saturdays, Sundays, scheduled events, and scheduled off-schedule campaign/sessions
+   You will be required to work remotely, on fully flexible hours, for preparing on-site work.
    
+   About
    We're a new cozy café + floriographer, opened merely ( ) weeks ago. 
    Running as a normal café, we are as well more involved in the menu, the aesthetics, and the to be events.
    As well we are a flower store, for we have the inclination in growing flowers and gardening in general.
    We are a hospitality industry, service our customers with kindness and mirth, in ways that we hope to cultivate a friendly environment with always friendly faces and regulars visiting us.
    
+   Job Description
    Your role will be as a Dungeon Master of Dungeons and Dragons, facilitating regular and scheduled campaigns and one-offs.
    
    Researching, writing, designing, and customizing worlds, characters and stories, and performing engaging sessions of collaborative play within them, together with player/s, where you are the central facilitator of the story, managing players and group dynamics, becoming a storyteller, and a mouth piece to voice an unfolding story that the players help create together with you through action, word, research and world. 
    
-   Apart from this, you will manage session scheduling, keep communications with players, help mediate disputes, and most importantly, create havens of enjoyment and comfortability for players.
+   Apart from this, you will manage session scheduling, keep communications with players, help mediate disputes, and most importantly, create havens of enjoyment and comfortability for players.  Duties and Responsibilities
+   Campaign Research, Planning and Design
+   Progress Through Story, Adventure, and Play, Through Roleplay and Story Telling
    
+   Required Skills
    
    
    How this job description involves communication skills:
