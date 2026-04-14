@@ -162,16 +162,12 @@ Me: Hello hello! I'm calling, asking if you know of the new restaurant that just
    - Craft Skills for the table and pieces, that would facilitate more enjoyment in play
 
 
-
 Job Description Note - 
    How this job description involves communication skills:
    In that it is very much anchored as an artform here, responding to players' reactions and anticipating even their anticipations. It involves planned and improvisational communication, with understanding story, a fundamental root in communication, and the characters, and the players' involvement which cannot be perfectly planned for.
 
 
 #### What is Communication, and Why Does it Matter?
-
-## 1.2 What is Communciation?
-#### What is Communication?
 
 Communication is interaction to exchange information, feelings, or emotion, + or intention. It is all pervasive.
 Effective Communication = Success in Career + Productive Relationship.
@@ -183,7 +179,21 @@ Importance at the Workplace
 - Central to harmonious work place → self confidence and job satisfaction
 
 Employers rate candidate soft skills/qualities<font color="#7f7f7f"> in order of importance</font>
-1. Ability to verbally communicate with persons inside and outside 
+1. Ability to verbally communicate with persons inside and outside the organization
+2. Ability to work in a team structure
+3. Ability to make decisions and solve problems
+4. Ability to plan, organize and prioritize work
+5. Ability to obtain and process information
+
+Importance in Personal life
+- Less conflict and mistunderstanding
+- Able to resolve differences amicably, building trust and respect
+- Creates harmony, for better relationships
+- People like to be around you. They listen to you. It makes you likeable  {  : /  }
+
+## 1.2 What is Communication?
+#### What is Communication?
+
 
 
 #### The Categories of Communication
@@ -191,6 +201,7 @@ Employers rate candidate soft skills/qualities<font color="#7f7f7f"> in order of
 
 
 #### The Shannon and Weaver Mo
+
 
 
 
