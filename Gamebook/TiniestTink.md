@@ -6,6 +6,10 @@
 
 ---
 
+Inspirations:
+- Zelda games in general~  : >
+- Raider Kid (To Be Inspiration)
+
 Want:
 - Storyline mode with set (some randomness) maze.
 - Rogue mode with certain abilities/ rooms/puzzle types/enemies/items/etc unlocked through story progress.
