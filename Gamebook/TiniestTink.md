@@ -17,5 +17,5 @@ Want:
 
 Rooms:
 - Timeset room 
-    - you get in, and the room repeats itself every set amount of time until it is successfully complete.
+    - you get in, and the room repeats itself every set amount of time until it is successfully complete. Maybe have, when you get in, it starts at the end, and rewinds backwards until the beginning of the reset. And whenever you fail it does the same - either carries on until the end of that reset quickly then resets, or rewinds from there. 
 - 
