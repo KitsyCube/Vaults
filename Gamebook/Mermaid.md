@@ -1,2 +1,7 @@
-Mother mermaid is *huge* and bigger tail ratio.
-Ecco.
+
+Inspiration:
+- Ecco
+
+Wants:
+- Mother mermaid is *huge* and bigger tail ratio
+
