@@ -22,3 +22,6 @@
 > <font color="#7f7f7f">[ ]swords-n-spindles</font>
 > <font color="#7f7f7f">"Get a wet paper towel and wipe up the last line of dust with it. </font>
 > **No fate is so immovable that we cannot change it."**
+
+"What were you before you met me?"
+"I think i was dro"
