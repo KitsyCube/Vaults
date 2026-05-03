@@ -191,7 +191,7 @@ Importance in Personal life
 - Creates harmony, for better relationships
 - People like to be around you. They listen to you. It makes you likeable  {  : /  }
 
-## 1.2 What is Communication?
+### 1.2 What is Communication?
 #### What is Communication?
 
 

@@ -1,10 +1,12 @@
-witch
-cyberpunk
-dystopia
-banopticon
-witch hunt
-rogue-like
-slay the spire
+
+Inspiration:
+- witch
+- cyberpunk
+- dystopia
+- banopticon
+- witch hunt
+- rogue-like
+- slay the spire
 
 
 
