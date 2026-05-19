@@ -4,6 +4,7 @@
  
 ![[TiniestTink 2026-04-21 04.41.23.excalidraw|100%x530|1397]] 
 
+![[TiniestTink 2026-05-19 14.00.32.excalidraw]]
 ---
 
 Inspirations:
