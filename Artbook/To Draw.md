@@ -1,8 +1,11 @@
 
+- Mush
+	-  Sunflower Mush ~ Midsummer - Autumn (January - April) (They bloom for 2-3 weeks)
 - Minecraft characters (+lewd)
+- Sanrio characters
 - Followers
 - 1:20, "But potatoes are so delicious-", MyStreet Phoenix Drop Ep.3
-- Pokemon
+- Pokémon
 	- Grabby Crabby ( carrier crab )
 	- Nautilus
 - Ben 10
