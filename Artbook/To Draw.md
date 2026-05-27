@@ -1,7 +1,7 @@
 
 - Mush
 	- Sunflower Mush ~ Midsummer - Autumn (January - April) (They bloom for 2-3 weeks)
-	- Twilight Princess ~ November 19, 2006 (Wii) - December 11, 2006 (GameCube)
+	- Twilight Princess Mush ~ November 19, 2006 (Wii) - December 11, 2006 (GameCube)
 - Minecraft characters (+lewd)
 - Sanrio characters
 - Followers
