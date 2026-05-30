@@ -4,3 +4,9 @@
 
 >[!example]+ Fiction
 > - [ ] Wizard of Earthsea, Ursula K. Le Guin
+
+> [!example] Manga
+> - [ ] Houseki no Kuni
+> - [ ] Vagabond
+> - [ ] Tokyo Ghoul
+> 
