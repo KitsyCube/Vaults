@@ -1,3 +1,2 @@
 
-- [ ] Mouse
-- [ ] Desk Mat
+Desk Mat
