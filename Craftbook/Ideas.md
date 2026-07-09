@@ -1,0 +1,1 @@
+- Pretty/cool usb sticks using clay. Like it looks like a mush, or a flower or a zelda mask. : >  I'd like those.
