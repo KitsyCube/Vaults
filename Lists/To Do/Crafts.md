@@ -4,3 +4,6 @@
 
 {Belongings}
 - [ ] Wallet
+
+{ ??? }
+- [ ] Kirara Plushie ( Inuyasha )

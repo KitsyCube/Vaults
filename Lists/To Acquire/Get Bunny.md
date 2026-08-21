@@ -8,4 +8,5 @@ host: www.ayntec.com
 image: http://www.ayntec.com/cdn/shop/files/4fe40f089696834c4906303a743d01c5_d891fc5b-3473-449a-85c1-56663e291fcf_1200x1200.jpg?v=1755855604
 ```
 
-Ball + y'know, attached 
+Ball + y'know, attached ( T~T i forgot what the 'y'know' meant )
+Kirara plushie (from Inuyasha)
