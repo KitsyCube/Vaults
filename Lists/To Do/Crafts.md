@@ -10,4 +10,4 @@
 
 { Utensils }
 - [ ] Bread pan in the shape of the a heart. 
-      Bottom is right angle with the corner pointed down and curves up slightly at the top ends, ends are full heart shaped, with rod/right angle thing that goes from one end, in the heart divot, to the other end.![[Crafts 2026-08-29 04.54.57.excalidraw|37139544617]]
+      Bottom is right angle with the corner pointed down and curves up slightly at the top ends, ends are full heart shaped, with rod/right angle thing that goes from one end, in the heart divot, to the other end.![[Crafts 2026-08-29 04.54.57.excalidraw.png|256]]
