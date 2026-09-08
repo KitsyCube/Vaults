@@ -6,7 +6,7 @@
 - [ ] Wallet
 
 { Crochet }
-- [ ] Kirara Plushie ( Inuyasha )
+- [ ] Kirara Plushie, big and small ( Inuyasha ) 
 
 { Utensils }
 - [ ] Bread pan in the shape of the a heart. 
