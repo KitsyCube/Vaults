@@ -2,7 +2,7 @@
 
 > [!todo] To-do
 > - [x] Make varianced error column to be a function of (claim - paid), before it adds in headers.
-> - [ ] Make all varianced error have their paid column be a vlookup.
+> - [x] Make all varianced error have their paid column be a vlookup.
 > - [ ] Include a more robust check on if paid column was manually entered,,, somehow. Maybe check if it is a function or not?
 > - [ ] Change the master range to be just "master" instead of "master_2", for slightly easier set-up.
 > - [ ] Set the minimum amount of variance to be variable, instead of hardcoded.
