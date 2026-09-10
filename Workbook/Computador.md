@@ -13,7 +13,7 @@
 > - Give list of functions as you open workbook? ( might only be actually time-saving when integrated to work with outside of excel ... )
 > - When making AGE worksheet macro, disable ( simply copy its value then paste may be easiest if possible? ) the auto updating function for any AGE worksheets older than three months from active AGE worksheet. 
 > - Auto make AGE worksheet after main macro?
-> - Change sorting to be from a fixed, sorted list? Then don't need to do the whole grouping thing.
+> - Change sorting to be from a fixed, sorted list? Then don't need to do the whole grouping thing. 
 
 
 
