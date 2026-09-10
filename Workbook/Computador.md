@@ -13,12 +13,14 @@
 > - [ ] Add dropdown filtering at top encompassing the sheet.
 > - [ ] Add more auto backups instead of only two.
 > - [ ] Make oldBACKUP only delete if there is a newBACKUP.
-> - [ ] Age macro has the columns be variabled, so can change as needed. Add to Main macro.
+> - [ ] Age macro has the columns be variabled, so can change as needed.
+> - [ ] Add age macro to function at the end of the Main macro.
+> - [ ] Age macro figures it's "Medical Aid Figures" month part and it's sheet name by the current sheet the Main macro is being used in.
+> - [ ] Auto make a report. Remember to keep cells formatting.
 
 > [!question] Ideas
 > - Give list of functions as you open workbook? ( might only be actually time-saving when integrated to work with outside of excel ... )
 > - When making AGE worksheet macro, disable ( simply copy its value then paste may be easiest if possible? ) the auto updating function for any AGE worksheets older than three months from active AGE worksheet. 
-> - Auto make AGE worksheet after main macro?
 > - Change sorting to be from a fixed, sorted list? Then don't need to do the whole grouping thing. 
 > - Make { ComputeValue } function be able to handle any amount of values, not just three, and maybe which operators between.
 
