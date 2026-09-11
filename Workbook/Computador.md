@@ -23,6 +23,7 @@
 > - When making AGE worksheet macro, disable ( simply copy its value then paste may be easiest if possible? ) the auto updating function for any AGE worksheets older than three months from active AGE worksheet. 
 > - Change sorting to be from a fixed, sorted list? Then don't need to do the whole grouping thing. 
 > - Make { ComputeValue } function be able to handle any amount of values, not just three, and maybe which operators between.
+> - Auto correct perfectly doubled paids?
 
 
 
