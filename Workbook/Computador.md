@@ -25,6 +25,7 @@
 > - Change sorting to be from a fixed, sorted list? Then don't need to do the whole grouping thing. 
 > - Make { ComputeValue } function be able to handle any amount of values, not just three, and maybe which operators between.
 > - Auto correct perfectly doubled paids?
+> - Make a 'CONFIG — EDIT THESE AS NEEDED' that both macros use.
 
 
 
