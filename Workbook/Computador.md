@@ -36,3 +36,4 @@ General
 
 > [!question]- Look into / Ideas
 > - [ ] Sort / Organize email by recipient
+> - [ ] Look into VBA with classic outlook
