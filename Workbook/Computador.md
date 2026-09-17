@@ -1,4 +1,4 @@
-# Work Overhaul via VBA
+# Excel Automation VBA
 
 General 
 
@@ -29,6 +29,11 @@ General
 > - Auto correct perfectly doubled paids?
 > - Make a 'CONFIG — EDIT THESE AS NEEDED' that both macros use.
 
+# Files Prep/Extraction Automation
+
+
+> [!NOTE]- Ideas
+> 
 
 # Email Automation
 
