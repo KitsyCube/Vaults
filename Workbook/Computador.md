@@ -34,6 +34,5 @@ General
 
 General
 
-
-> [!NOTE]- 
-> Contents
+> [!question]- Look into / Ideas
+> - [ ] Sort / Organize email by recipient
