@@ -1,6 +1,8 @@
-## Work Remastering
+# Work Overhaul via VBA
 
-> [!todo] To-do
+General 
+
+> [!todo]- To-do
 > - [x] Make varianced error column to be a function of (claim - paid), before it adds in headers.
 > - [x] Make all varianced error have their paid column be a vlookup.
 > - [ ] Include a more robust check on if paid column was manually entered,,, somehow. Maybe check if it is a function or not?
@@ -19,7 +21,7 @@
 > - [ ] Auto make a report. Remember to keep cells formatting.
 > - [ ] Only let Main macro be used if there are any group names.
 
-> [!question] Ideas
+> [!question]- Ideas
 > - Give list of functions as you open workbook? ( might only be actually time-saving when integrated to work with outside of excel ... )
 > - When making AGE worksheet macro, disable ( simply copy its value then paste may be easiest if possible? ) the auto updating function for any AGE worksheets older than three months from active AGE worksheet. 
 > - Change sorting to be from a fixed, sorted list? Then don't need to do the whole grouping thing. 
@@ -28,7 +30,7 @@
 > - Make a 'CONFIG — EDIT THESE AS NEEDED' that both macros use.
 
 
+# Email Automation
 
-
-
+General
 
