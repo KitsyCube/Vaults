@@ -16,6 +16,7 @@ Manga
 - Houseki no Kuni
 - Tokyo Ghoul
 - Vagabond
+
 Trinkets
 - [ ] Cardcaptor Sakura key
 - [ ] Fairytail keys

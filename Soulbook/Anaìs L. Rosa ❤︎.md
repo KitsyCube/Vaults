@@ -5,18 +5,22 @@
 ### (,,>w<,,)❤︎
 I adore all the cute noises she makes ♡
 - Her lil' moans as she eats~
+- Tummy tumbling moans when she stretches- aa
 
 ---
 ### Favourites
 Food
 - Bacalaitos
+
 Dessert
 - Brownie Ice cream
 - Pecans
 - Choccy chip
 - Florecitas childhood cookies  (Mostly likes the icing, shortbread meh)
+
 Jewellery 
 - Gold > Silver ( Now it's < ?? She mightn't always prefer one over the other )
+
 Music
 - His Theme - Undertale
 
