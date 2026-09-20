@@ -1,7 +1,7 @@
 Inspiration:
 
 - Jackals over wolves ( ? )
-- Borderlands
+- Borderlands/2 and its endgame
 - Witcher 3
 
 ---
