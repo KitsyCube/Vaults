@@ -22,6 +22,8 @@ Jewellery
 - Gold > Silver ( Now it's < ?? She mightn't always prefer one over the other )
 
 Music
+  ★ Pacific - Chase Petra
+- - Madds Buckley
 - His Theme - Undertale
 
 ---
