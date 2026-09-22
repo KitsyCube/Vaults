@@ -40,6 +40,15 @@ General
 
 General
 
+
+> [!NOTE]- To-do : /
+> - Add Outlook organize rules for:
+> 	- [ ] Audits
+> 	- [ ] One Time Pins / OTPs
+> 	- [ ] Medisport
+> 	- [ ] Bonitas
+
+
 > [!question]- Look into / Ideas
 > - [ ] Sort / Organize email by recipient
 > - [ ] Look into VBA with classic outlook
