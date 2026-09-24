@@ -20,7 +20,8 @@ General
 > - [ ] Age macro figures it's "Medical Aid Figures" month part and it's sheet name by the current sheet the Main macro is being used in.
 > - [ ] Auto make a report. Remember to keep cells formatting.
 > - [ ] Only let Main macro be used if there are any group names.
-> - [ ] Auto refresh Master table everytime you 
+> - [ ] Auto refresh Master table everytime you go onto a sheet that's not for data. 
+> - [ ] 
 
 > [!question]- Ideas
 > - Give list of functions as you open workbook? ( might only be actually time-saving when integrated to work with outside of excel ... )
@@ -29,6 +30,7 @@ General
 > - Make { ComputeValue } function be able to handle any amount of values, not just three, and maybe which operators between.
 > - Auto correct perfectly doubled paids?
 > - Make a 'CONFIG — EDIT THESE AS NEEDED' that both macros use.
+> - Master lookup table might not w
 
 # Files Prep/Extraction Automation
 
