@@ -30,7 +30,7 @@ General
 > - Make { ComputeValue } function be able to handle any amount of values, not just three, and maybe which operators between.
 > - Auto correct perfectly doubled paids?
 > - Make a 'CONFIG — EDIT THESE AS NEEDED' that both macros use.
-> - Master lookup table might not w
+> - Master lookup table might not work overall? Could have conflicts, works fine with Youngs and Hibberdene, not sure with the rest. 
 
 # Files Prep/Extraction Automation
 
