@@ -1,7 +1,5 @@
 # Excel Automation
 
-General 
-
 > [!todo]- To-do
 > - [x] Make varianced error column to be a function of (claim - paid), before it adds in headers.
 > - [x] Make all varianced error have their paid column be a vlookup. This will also prevent accidental double statement downloads changing payments unduly.
@@ -34,15 +32,10 @@ General
 
 # Files Prep/Extraction Automation
 
-General 
-
 > [!NOTE]- Ideas
 > - Goes through each excel file in the folder, discerns which medical aid/macro it needs, then puts all usable information into a separate excel file with: reference - claim - paid - reason ( if possible ) ; Medical aid or such - Statement Date - Statement Total. Then onto the next file, inserting usable information into the same separate excel file.
 
 # Email Automation
-
-General
-
 
 > [!NOTE]- To-do : /
 > - Add Outlook organize rules for:
@@ -51,13 +44,19 @@ General
 > 	- [ ] Medisport
 > 	- [ ] Bonitas
 
-
 > [!question]- Look into / Ideas
 > - [ ] Sort / Organize email by recipient
 > - [ ] Look into VBA with classic outlook
 
 # Workflow adjustments
 
-
 > [!NOTE]- Must be aware/change
 > - When inserting banking, be aware of statement date and put in correct month, even if you must make the next month's section. As well as be aware of payments in statements. If the statement is for July, but you only see June payments, usually happening in early month statements, put that July statement's banking in June.
+
+# Statement Download Automation
+
+> [!success]- Can
+> - 
+
+> [!fail]- Cannot
+> - 
