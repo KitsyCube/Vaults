@@ -4,7 +4,7 @@ General
 
 > [!todo]- To-do
 > - [x] Make varianced error column to be a function of (claim - paid), before it adds in headers.
-> - [x] Make all varianced error have their paid column be a vlookup.
+> - [x] Make all varianced error have their paid column be a vlookup. This will also prevent accidental double statement downloads changing payments unduly.
 > - [ ] Include a more robust check on if paid column was manually entered,,, somehow. Maybe check if it is a function or not?
 > - [x] Change the master range to be just "master" instead of "master_2", for slightly easier set-up.
 > - [ ] Set the minimum amount of variance to be variable, instead of hardcoded.
@@ -55,3 +55,9 @@ General
 > [!question]- Look into / Ideas
 > - [ ] Sort / Organize email by recipient
 > - [ ] Look into VBA with classic outlook
+
+# Workflow adjustments
+
+
+> [!NOTE]- Must be aware/change
+> - When inserting banking, be aware of statement date and put in correct month, even if you must make the next month's section. As well as be aware of payments in statements. If the statement is for July, but you only see June payments, usually happening in early month statements, put that July statement's banking in June.
