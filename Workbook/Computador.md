@@ -60,6 +60,7 @@
 > - Camaf
 > - Medihelp
 > - Medimed
+> - Mediscor ( maybe )
 
 > [!fail]- Cannot
 > - 
