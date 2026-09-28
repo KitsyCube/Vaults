@@ -56,7 +56,10 @@
 # Statement Download Automation
 
 > [!success]- Can?
+> - Bestmed
 > - Camaf
+> - Medihelp
+> - Medimed
 
 > [!fail]- Cannot
 > - 
