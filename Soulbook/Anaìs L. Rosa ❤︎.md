@@ -8,6 +8,10 @@ I adore all the cute noises she makes ♡
 - Tummy tumbling moans when she stretches- aa
 
 ---
+### Likes
+- Good unexpected things.  : >  Compliments, gifts, touches, etc.
+
+---
 ### Favourites
 Food
 - Bacalaitos
