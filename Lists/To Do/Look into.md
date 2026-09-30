@@ -4,6 +4,15 @@
 - Adobe Illustrater → Inkscape
 - FL Studio → LMMS
 - Premier Pro → Shotcut → Kdenlive → Davinci Resolve
-- Password Manager → KeepassXC
 - Gmail/Outlook → Thunderbird
+- VLC → MPV
+- Notepad → Notepad++
 - Ebook Manager → Calibre
+- Notebook → Joplin
+- Designing → Affinity
+- VPN → ProtonVPN
+- Password Manager → KeepassXC
+- Password Manager → Bitwarden
+- Sending data locally → LocalSend ( Must be on same wifi )
+- Virtual Machine → VirtualBox
+- C
