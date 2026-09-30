@@ -1,33 +1,33 @@
-### Applications
+###ㅤApplications
 
-- Dropbox                              → Nextcloud
-- Youtube Music                     → Navidrome
-- Google Photos                     → Immich
-- Adobe Illustrater                  → Inkscape
-- Adobe Indesign                   → Scribus
-- Figma                                   → Penpot
-- FL Studio                              → LMMS
-- Premier Pro                         → Shotcut → Kdenlive → Davinci Resolve
-- Gmail/Outlook                    → Thunderbird
-- VLC                                      → MPV
-- Visual Studio                       → VSCodium
-- Winrar                                 → 7zip
-- Notepad                              → Notepad++
-- Ebook Manager                   → Calibre
-- Notebook                            → Joplin
-- Designing                            → Affinity
-- VPN                                     → ProtonVPN
-- Password Manager             → Proton Pass
-- Password Manager             → KeepassXC
-- Password Manager              → Bitwarden
-- Sending data locally            → LocalSend ( Must be on same wifi )
-- Connect phone to pc           → KDE connect
-- Virtual Machine                    → VirtualBox
-- CAD software                       → FreeCAD
-- DAW                                     → Ardour
-- File Searcher                        → Everything
-- File synchroniser                  → Syncthing
-- Cloud Gaming                      → Parsec
-- Video Convert/Compress     → Hand Break
-- Screenshot/recorder             → ShareX ( editing automation system )
-- File Manager                         → Total Commander
+-ㅤDropboxㅤㅤㅤㅤㅤㅤㅤㅤㅤ  ㅤ→ㅤNextcloud
+-ㅤYoutube Musicㅤㅤㅤㅤㅤㅤ   ㅤ→ㅤNavidrome
+-ㅤGoogle Photosㅤㅤㅤㅤㅤㅤ   ㅤ→ㅤImmich
+-ㅤAdobe Illustraterㅤㅤㅤㅤ    ㅤ   →ㅤInkscape
+-ㅤAdobe Indesignㅤㅤㅤㅤ     ㅤㅤ→ㅤScribus
+-ㅤFigmaㅤㅤㅤㅤㅤㅤㅤㅤ      ㅤㅤ→ㅤPenpot
+-ㅤFL Studioㅤㅤㅤㅤㅤ         ㅤㅤㅤ→ㅤLMMS
+-ㅤPremier Proㅤㅤㅤㅤㅤㅤ         ㅤ→ㅤShotcutㅤ→ㅤKdenliveㅤ→ㅤDavinciㅤResolve
+-ㅤGmail/Outlookㅤㅤㅤㅤ        ㅤㅤ→ㅤThunderbird
+-ㅤVLCㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ       ㅤ→ㅤMPV
+-ㅤVisual Studioㅤㅤㅤㅤㅤ       ㅤㅤ→ㅤVSCodium
+-ㅤWinrarㅤㅤㅤㅤㅤㅤㅤㅤ      ㅤㅤ→ㅤ7zip
+-ㅤNotepadㅤㅤㅤㅤㅤㅤㅤ      ㅤㅤ→ㅤNotepad++
+-ㅤEbook Managerㅤㅤㅤㅤㅤㅤ     →ㅤCalibre
+-ㅤNotebookㅤㅤㅤㅤㅤㅤㅤㅤ    ㅤ→ㅤJoplin
+-ㅤDesigningㅤㅤㅤㅤㅤㅤㅤ    ㅤㅤ→ㅤAffinity
+-ㅤVPNㅤㅤㅤㅤㅤㅤㅤㅤㅤ  ㅤㅤ ㅤ→ㅤProtonVPN
+-ㅤPassword Managerㅤㅤㅤㅤㅤㅤ  →ㅤProtonㅤPass
+-ㅤPassword Managerㅤㅤㅤㅤㅤ  ㅤ→ㅤKeepassXC
+-ㅤPassword Managerㅤㅤㅤㅤㅤ ㅤ→ㅤBitwarden
+-ㅤSending dataㅤlocallyㅤㅤㅤㅤㅤ→ㅤLocalSendㅤ(ㅤMustㅤbeㅤonㅤsameㅤwifiㅤ)
+-ㅤConnect phoneㅤtoㅤpcㅤㅤㅤㅤ→ㅤKDEㅤconnect
+-ㅤVirtual Machineㅤㅤㅤㅤㅤㅤ   ㅤ→ㅤVirtualBox
+-ㅤCAD softwareㅤㅤㅤㅤㅤㅤㅤ  ㅤ→ㅤFreeCAD
+-ㅤDAWㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ →ㅤArdour
+-ㅤFile Searcherㅤㅤㅤㅤㅤㅤㅤ   ㅤ→ㅤEverything
+-ㅤFile synchroniserㅤㅤㅤㅤㅤㅤㅤ→ㅤSyncthing
+-ㅤCloud Gamingㅤㅤㅤㅤㅤㅤㅤㅤ→ㅤParsec
+-ㅤVideo Convert/Compressㅤ ㅤㅤ→ㅤHandㅤBreak
+-ㅤScreenshot/recorderㅤㅤㅤㅤ  ㅤ→ㅤShareXㅤ(ㅤeditingㅤautomationㅤsystemㅤ)
+-ㅤFile Managerㅤㅤㅤㅤㅤㅤㅤㅤㅤ→ㅤTotalㅤCommander
