@@ -1,3 +1,5 @@
+### Applications
+
 - Dropbox                              → Nextcloud
 - Youtube Music                     → Navidrome
 - Google Photos                     → Immich
