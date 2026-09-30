@@ -1,23 +1,31 @@
-- Dropbox  → Nextcloud
-- Youtube Music  → Navidrome
-- Google Photos  → Immich
-- Adobe Illustrater → Inkscape
-- FL Studio → LMMS
-- Premier Pro → Shotcut → Kdenlive → Davinci Resolve
-- Gmail/Outlook → Thunderbird
-- VLC → MPV
-- Notepad                    → Notepad++
-- Ebook Manager         → Calibre
-- Notebook                  → Joplin
-- Designing                  → Affinity
-- VPN                           → ProtonVPN
-- Prot
-- Password Manager   → KeepassXC
-- Password Manager   → Bitwarden
-- Sending data locally → LocalSend ( Must be on same wifi )
-- Virtual Machine → VirtualBox
-- CAD software → FreeCAD
-- DAW → Ardour
-- File Searcher → Everything
-- File synchroniser → Syncthing
-- Figma → Penpot
+- Dropbox                              → Nextcloud
+- Youtube Music                     → Navidrome
+- Google Photos                     → Immich
+- Adobe Illustrater                  → Inkscape
+- Adobe Indesign                   → Scribus
+- Figma                                   → Penpot
+- FL Studio                              → LMMS
+- Premier Pro                         → Shotcut → Kdenlive → Davinci Resolve
+- Gmail/Outlook                    → Thunderbird
+- VLC                                      → MPV
+- Visual Studio                       → VSCodium
+- Winrar                                 → 7zip
+- Notepad                              → Notepad++
+- Ebook Manager                   → Calibre
+- Notebook                            → Joplin
+- Designing                            → Affinity
+- VPN                                     → ProtonVPN
+- Password Manager             → Proton Pass
+- Password Manager             → KeepassXC
+- Password Manager              → Bitwarden
+- Sending data locally            → LocalSend ( Must be on same wifi )
+- Connect phone to pc           → KDE connect
+- Virtual Machine                    → VirtualBox
+- CAD software                       → FreeCAD
+- DAW                                     → Ardour
+- File Searcher                        → Everything
+- File synchroniser                  → Syncthing
+- Cloud Gaming                      → Parsec
+- Video Convert/Compress     → Hand Break
+- Screenshot/recorder             → ShareX ( editing automation system )
+- File Manager                         → Total Com
