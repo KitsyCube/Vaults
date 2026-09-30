@@ -1,4 +1,4 @@
-###ㅤApplications
+### Applications
 
 -ㅤDropboxㅤㅤㅤㅤㅤㅤㅤㅤㅤ  ㅤ→ㅤNextcloud
 -ㅤYoutube Musicㅤㅤㅤㅤㅤㅤ   ㅤ→ㅤNavidrome
