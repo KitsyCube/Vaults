@@ -1,4 +1,9 @@
 - Dropbox  → Nextcloud
 - Youtube Music  → Navidrome
 - Google Photos  → Immich
+- Adobe Illustrater → Inkscape
+- FL Studio → LMMS
+- Premier Pro → Shotcut → Kdenlive → Davinci Resolve
+- Password Manager → KeepassXC
+- Gmail/Outlook → Thunderbird
 - 
