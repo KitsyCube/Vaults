@@ -28,4 +28,4 @@
 - Cloud Gaming                      → Parsec
 - Video Convert/Compress     → Hand Break
 - Screenshot/recorder             → ShareX ( editing automation system )
-- File Manager                         → Total Com
+- File Manager                         → Total Commander
