@@ -6,13 +6,18 @@
 - Premier Pro → Shotcut → Kdenlive → Davinci Resolve
 - Gmail/Outlook → Thunderbird
 - VLC → MPV
-- Notepad → Notepad++
-- Ebook Manager → Calibre
-- Notebook → Joplin
-- Designing → Affinity
-- VPN → ProtonVPN
-- Password Manager → KeepassXC
-- Password Manager → Bitwarden
+- Notepad                    → Notepad++
+- Ebook Manager         → Calibre
+- Notebook                  → Joplin
+- Designing                  → Affinity
+- VPN                           → ProtonVPN
+- Prot
+- Password Manager   → KeepassXC
+- Password Manager   → Bitwarden
 - Sending data locally → LocalSend ( Must be on same wifi )
 - Virtual Machine → VirtualBox
-- C
+- CAD software → FreeCAD
+- DAW → Ardour
+- File Searcher → Everything
+- File synchroniser → Syncthing
+- Figma → Penpot
