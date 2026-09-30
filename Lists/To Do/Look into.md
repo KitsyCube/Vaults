@@ -6,4 +6,4 @@
 - Premier Pro → Shotcut → Kdenlive → Davinci Resolve
 - Password Manager → KeepassXC
 - Gmail/Outlook → Thunderbird
-- 
+- Ebook Manager → Calibre
