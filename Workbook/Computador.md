@@ -19,7 +19,7 @@
 > - [ ] Auto make a report. Remember to keep cells formatting.
 > - [ ] Only let Main macro be used if there are any group names.
 > - [ ] Auto refresh Master table everytime you go onto a sheet that's not for data. 
-> - [ ] 
+> - [ ] Should be an easy macro new for new MEDSCHEME layout.
 
 > [!question]- Ideas
 > - Give list of functions as you open workbook? ( might only be actually time-saving when integrated to work with outside of excel ... )
@@ -43,6 +43,7 @@
 > 	- [ ] One Time Pins / OTPs
 > 	- [ ] Medisport
 > 	- [ ] Bonitas
+> - [ ]Auto download pdf/sc, sort to right place Some Pharmacies have some data emailed that we usually download.
 
 > [!question]- Look into / Ideas
 > - [ ] Sort / Organize email by recipient
