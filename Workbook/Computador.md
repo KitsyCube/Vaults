@@ -18,10 +18,13 @@
 > - [ ] Age macro figures it's "Medical Aid Figures" month part and it's sheet name by the current sheet the Main macro is being used in.
 > - [ ] Auto make a report. Remember to keep cells formatting.
 > - [ ] Only let Main macro be used if there are any group names.
-> - [ ] Auto refresh Master table everytime you go onto a sheet that's not for data.
+> - [ ] Auto refresh Master table every time you go onto a sheet that's not for data.
 > - [ ] Should be an easy macro new for new MEDSCHEME layout.
 > - [ ] Create a MACRO HOLDER excel sheet, that will replace the 'Personal' one being used now.
-> - [ ] Age macro finds all medical aid sorted by a table that has  in Macro File
+> - [ ] Create Medical Aid scheme code table in MACRO HOLDER that macros use, instead of it being in code, so it is easily edited.
+> - [ ] Main macro to use Medical Aid scheme code table.
+> - [ ] Age macro to use Medical Aid scheme code table, instead of using the structure of the data sheet.
+
 
 > [!question]- Ideas
 > - Give list of functions as you open workbook? ( might only be actually time-saving when integrated to work with outside of excel ... )
