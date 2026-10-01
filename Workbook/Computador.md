@@ -43,7 +43,7 @@
 > 	- [ ] One Time Pins / OTPs
 > 	- [ ] Medisport
 > 	- [ ] Bonitas
-> - [ ]Auto download pdf/sc, sort to right place Some Pharmacies have some data emailed that we usually download.
+> - [ ] Auto download pdf/csv, sort to right place. Some Pharmacies have some data emailed that we usually download, doing this will take some time away from download.  : >
 
 > [!question]- Look into / Ideas
 > - [ ] Sort / Organize email by recipient
