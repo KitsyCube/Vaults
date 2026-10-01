@@ -21,8 +21,8 @@
 > - [ ] Auto refresh Master table every time you go onto a sheet that's not for data.
 > - [ ] Should be an easy macro new for new MEDSCHEME layout.
 > - [ ] Create a MACRO HOLDER excel sheet, that will replace the 'Personal' one being used now.
-> - [ ] Create Medical Aid scheme code table in MACRO HOLDER that macros use, instead of it being in code, so it is easily edited.
-> - [ ] Main macro to use Medical Aid scheme code table.
+> - [ ] Create Medical Aid scheme code table in MACRO HOLDER that macros use, instead of it being in code, so it is easily edited. 
+> - [ ] Main macro to use Medical Aid scheme code table. Be sure to turn it into an array then use it.
 > - [ ] Age macro to use Medical Aid scheme code table, instead of using the structure of the data sheet.
 
 
