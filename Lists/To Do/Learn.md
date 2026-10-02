@@ -1,3 +1,7 @@
 
 - [ ] Learn greetings from smallest amount of languages to be able to greet everywhere.
 - [ ] Realistically meow
+
+### Coding Languages
+
+- [ ] Typescript
