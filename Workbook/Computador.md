@@ -24,6 +24,10 @@
 > - [ ] Create Medical Aid scheme code table in MACRO HOLDER that macros use, instead of it being in code, so it is easily edited. 
 > - [ ] Main macro to use Medical Aid scheme code table. Be sure to turn it into an array then use it.
 > - [ ] Age macro to use Medical Aid scheme code table, instead of using the structure of the data sheet.
+> - [ ] Auto "Waiting for remits via email" for unpaid in select groups.
+> - [ ] Auto transfer available queries.
+>       - Make sure to delete current month's queries if there are, before transferring.
+
 
 
 > [!question]- Ideas
