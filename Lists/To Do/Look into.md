@@ -2,6 +2,7 @@
 
 -ㅤDropboxㅤㅤㅤㅤㅤㅤㅤㅤㅤ  ㅤ→ㅤNextcloud
 -ㅤYoutube Musicㅤㅤㅤㅤㅤㅤ   ㅤ→ㅤNavidrome
+-ㅤSpotifyㅤㅤㅤㅤㅤㅤㅤㅤ            →   Jellyfin ( Android )
 -ㅤGoogle Photosㅤㅤㅤㅤㅤㅤ   ㅤ→ㅤImmich
 -ㅤAdobe Illustraterㅤㅤㅤㅤ    ㅤ   →ㅤInkscape
 -ㅤAdobe Indesignㅤㅤㅤㅤ     ㅤㅤ→ㅤScribus
