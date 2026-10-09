@@ -27,6 +27,7 @@
 > - [ ] Auto "Waiting for remits via email" for unpaid in select groups.
 > - [ ] Auto transfer available queries.
 >       - Make sure to delete current month's queries if there are, before transferring.
+> - [ ] Make the backup function work on the active page so it can work anywere.
 
 
 
