@@ -7,27 +7,27 @@
 > - [x] Change the master range to be just "master" instead of "master_2", for slightly easier set-up.
 > - [ ] Set the minimum amount of variance to be variable, instead of hardcoded.
 > - [ ] Auto input reason for variance to be "awaiting remit" for certain groups, if there isn't already a reason.
-> - [ ] When making AGE worksheet macro, have it be an auto updating function instead of a one-time addition. 
 > - [ ] Fix when using macro to create an empty line at the top if there isn't.
 > - [ ] Building output, it adds original row that was there, then an empty row in the start( which might not be working anyways?), then in the loop for outputting it doesn't if it's the first header? Can just combine that to the loop.
 > - [ ] Add dropdown filtering at top encompassing the sheet.
 > - [ ] Add more auto backups instead of only two.
 > - [ ] Make oldBACKUP only delete if there is a newBACKUP.
-> - [ ] Age macro has the columns be variabled, so can change as needed.
-> - [ ] Add age macro to function at the end of the Main macro.
-> - [ ] Age macro figures it's "Medical Aid Figures" month part and it's sheet name by the current sheet the Main macro is being used in.
-> - [ ] Auto make a report. Remember to keep cells formatting.
 > - [ ] Only let Main macro be used if there are any group names.
 > - [ ] Auto refresh Master table every time you go onto a sheet that's not for data.
 > - [ ] Should be an easy macro new for new MEDSCHEME layout.
 > - [ ] Create a MACRO HOLDER excel sheet, that will replace the 'Personal' one being used now.
 > - [ ] Create Medical Aid scheme code table in MACRO HOLDER that macros use, instead of it being in code, so it is easily edited. 
 > - [ ] Main macro to use Medical Aid scheme code table. Be sure to turn it into an array then use it.
-> - [ ] Age macro to use Medical Aid scheme code table, instead of using the structure of the data sheet.
 > - [ ] Auto "Waiting for remits via email" for unpaid in select groups.
-> - [ ] Auto transfer available queries.
->       - Make sure to delete current month's queries if there are, before transferring.
-> - [ ] Make the backup function work on the active page so it can work anywere.
+> - [ ] Age macro to use Medical Aid scheme code table, instead of using the structure of the data sheet.
+> AGE SHEET:
+> 	- [ ] Add age macro to function at the end of the Main macro.
+> 	- [ ] Auto transfer available queries. Make sure to delete current month's queries if there are, before transferring.
+> 	- [ ] Age macro has the columns be variabled, so can change as needed.
+> 	- [ ] Age macro figures it's "Medical Aid Figures" month part and it's sheet name by the current sheet the Main macro is being used in.
+> 	- [ ] Auto make a report. Remember to keep cells formatting.
+> 	- [ ] When making AGE worksheet macro, have it be an auto updating function instead of a one-time addition. 
+> 	- [ ] Make the backup function work on the active page so it can work anywere.
 
 
 
