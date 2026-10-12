@@ -39,6 +39,8 @@
 > - Auto correct perfectly doubled paids?
 > - Make a 'CONFIG — EDIT THESE AS NEEDED' that both macros use.
 > - Master lookup table might not work overall? Could have conflicts, works fine with Youngs and Hibberdene, not sure with the rest. 
+> - For setup of excel sheets to be ready for macros:
+> 	- Extend age sheet totals ranges one above and below.
 
 # Files Prep/Extraction Automation
 
