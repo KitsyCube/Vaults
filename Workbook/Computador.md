@@ -20,19 +20,18 @@
 > - [ ] Create Medical Aid scheme code table in MACRO HOLDER that macros use, instead of it being in code, so it is easily edited. 
 > - [ ] Main macro to use Medical Aid scheme code table. Be sure to turn it into an array then use it.
 > - [ ] Auto "Waiting for remits via email" for unpaid in select groups.
-> - [ ] Age macro to use Medical Aid scheme code table, instead of using the structure of the data sheet.
+> - [ ] Make the backup function work on the active page so it can work anywere.
 > 
 > DATA SHEET:
->- [ ] 
+> - [ ] Auto transfer available queries. Make sure to delete current month's queries if there are, before transferring.
 > 
 > AGE SHEET:
 > - [ ] Add age macro to function at the end of the Main macro.
-> - [ ] Auto transfer available queries. Make sure to delete current month's queries if there are, before transferring.
 > - [ ] Age macro has the columns be variabled, so can change as needed.
 > - [ ] Age macro figures it's "Medical Aid Figures" month part and it's sheet name by the current sheet the Main macro is being used in.
 > - [ ] Auto make a report. Remember to keep cells formatting.
 > - [ ] When making AGE worksheet macro, have it be an auto updating function instead of a one-time addition. 
-> - [ ] Make the backup function work on the active page so it can work anywere.
+> - [ ] Age macro to use Medical Aid scheme code table, instead of using the structure of the data sheet.
 > 
 > PREPARE WORKBOOK:
 > - [ ] 
