@@ -24,6 +24,7 @@
 > 
 > DATA SHEET:
 > - [ ] Auto transfer available queries. Make sure to delete current month's queries if there are, before transferring.
+> - [ ] Update data in MASTER table at the start of the process.
 > 
 > AGE SHEET:
 > - [ ] Add age macro to function at the end of the Main macro.
