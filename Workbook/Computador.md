@@ -37,7 +37,8 @@
 > 	- If current sheet is an age sheet 
 > 	- If current sheet is the data sheet 
 > 		If data sheet has an age sheet already go there first
-> 	- MsgBox, checking to se
+> 	- Error MsgBox, not selected compatible worksheet, check to see if user wants make a report of latest data sheet or if it was mistake. Oops.
+> - [ ] Put Age Analysis Copy into Computador workbook for copying from.
 > 
 > PREPARE WORKBOOK:
 > - [ ] 
