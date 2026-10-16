@@ -1,6 +1,6 @@
-# Excel Automation
+## Excel Automation
 
-> [!todo]- To-do
+> [!todo] To-do
 > MISC:
 > - [x] Make varianced error column to be a function of (claim - paid), before it adds in headers.
 > - [x] Make all varianced error have their paid column be a vlookup. This will also prevent accidental double statement downloads changing payments unduly.
@@ -22,11 +22,12 @@
 > - [ ] Auto "Waiting for remits via email" for unpaid in select groups.
 > - [ ] Make the backup function work on the active page so it can work anywere.
 > 
-> DATA SHEET:
+> #### DATA SHEET:
 > - [ ] Auto transfer available queries. Make sure to delete current month's queries if there are, before transferring.
 > - [ ] Update data in MASTER table at the start of the process.
+> - [ ] 
 > 
-> AGE SHEET:
+> #### AGE SHEET:
 > - [ ] Add age macro to function at the end of the Main macro.
 > - [ ] Age macro has the columns be variabled, so can change as needed.
 > - [ ] Age macro figures it's "Medical Aid Figures" month part and it's sheet name by the current sheet the Main macro is being used in.
@@ -38,12 +39,13 @@
 > 	- If current sheet is the data sheet 
 > 		If data sheet has an age sheet already go there first
 > 	- Error MsgBox, not selected compatible worksheet, check to see if user wants make a report of latest data sheet or if it was mistake. Oops.
-> - [ ] Put Age Analysis Copy into Computador workbook for copying from.
+> - [ ] 
 > 
-> PREPARE WORKBOOK:
+> #### PREPARE WORKBOOK:
+> - [ ] Extend age sheet totals ranges one above and below.
 > - [ ] 
 
-> [!question]- Ideas
+> [!question] Ideas
 > - Give list of functions as you open workbook? ( might only be actually time-saving when integrated to work with outside of excel ... )
 > - When making AGE worksheet macro, disable ( simply copy its value then paste may be easiest if possible? ) the auto updating function for any AGE worksheets older than three months from active AGE worksheet. 
 > - Change sorting to be from a fixed, sorted list? Then don't need to do the whole grouping thing. 
@@ -51,17 +53,16 @@
 > - Auto correct perfectly doubled paids?
 > - Make a 'CONFIG — EDIT THESE AS NEEDED' that both macros use.
 > - Master lookup table might not work overall? Could have conflicts, works fine with Youngs and Hibberdene, not sure with the rest. 
-> - For setup of excel sheets to be ready for macros:
-> 	- Extend age sheet totals ranges one above and below.
+> - Put Age Analysis Copy into Computador workbook for copying from. ( Only if the opening and closing when running the macro to copy from it doesn't produce any lag )
 
-# Files Prep/Extraction Automation
+## Files Prep/Extraction Automation
 
-> [!NOTE]- Ideas
+> [!NOTE] Ideas
 > - Goes through each excel file in the folder, discerns which medical aid/macro it needs, then puts all usable information into a separate excel file with: reference - claim - paid - reason ( if possible ) ; Medical aid or such - Statement Date - Statement Total. Then onto the next file, inserting usable information into the same separate excel file.
 
-# Email Automation
+## Email Automation
 
-> [!NOTE]- To-do : /
+> [!NOTE] To-do : /
 > - Add Outlook organize rules for:
 > 	- [ ] Audits
 > 	- [ ] One Time Pins / OTPs
@@ -69,18 +70,18 @@
 > 	- [ ] Bonitas
 > - [ ] Auto download pdf/csv, sort to right place. Some Pharmacies have some data emailed that we usually download, doing this will take some time away from download.  : >
 
-> [!question]- Look into / Ideas
+> [!question] Look into / Ideas
 > - [ ] Sort / Organize email by recipient
 > - [ ] Look into VBA with classic outlook
 
-# Workflow adjustments
+## Workflow adjustments
 
-> [!NOTE]- Must be aware/change
+> [!NOTE] Must be aware/change
 > - When inserting banking, be aware of statement date and put in correct month, even if you must make the next month's section. As well as be aware of payments in statements. If the statement is for July, but you only see June payments, usually happening in early month statements, put that July statement's banking in June.
 
-# Statement Download Automation
+## Statement Download Automation
 
-> [!success]- Can?
+> [!success] Can?
 > - Bestmed
 > - Camaf
 > - Medihelp
@@ -88,5 +89,5 @@
 > - Mediscor ( maybe )
 > - Medshield
 
-> [!fail]- Cannot
+> [!fail] Cannot
 > - 
