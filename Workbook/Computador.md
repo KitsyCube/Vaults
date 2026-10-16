@@ -33,6 +33,11 @@
 > - [ ] Auto make a report. Remember to keep cells formatting.
 > - [ ] When making AGE worksheet macro, have it be an auto updating function instead of a one-time addition. 
 > - [ ] Age macro to use Medical Aid scheme code table, instead of using the structure of the data sheet.
+> - [ ] Start of Age Sheet ( if any are true, start process ):
+> 	- If current sheet is an age sheet 
+> 	- If current sheet is the data sheet 
+> 		If data sheet has an age sheet already go there first
+> 	- MsgBox, checking to se
 > 
 > PREPARE WORKBOOK:
 > - [ ] 
