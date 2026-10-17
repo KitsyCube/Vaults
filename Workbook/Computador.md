@@ -43,7 +43,10 @@
 > 
 > #### PREPARE WORKBOOK:
 > - [ ] Extend age sheet totals ranges one above and below.
-> - [ ] 
+> - [ ] Enable query properties of Master table: "Refresh data when opening the file", maybe?
+> - [ ]  
+> - [ ] Starts the check of if the workbook is fully prepared when opening the file, then asks if want to prepare it.
+> - [ ]  
 
 > [!question] Ideas
 > - Give list of functions as you open workbook? ( might only be actually time-saving when integrated to work with outside of excel ... )
