@@ -1,0 +1,1 @@
+Something something auto current page/chapter and finished book sync. Want it on the Xteink x3
