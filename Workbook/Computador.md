@@ -44,7 +44,7 @@
 > #### PREPARE WORKBOOK:
 > - [ ] Extend age sheet totals ranges one above and below.
 > - [ ] Enable query properties of Master table: "Refresh data when opening the file", maybe?
-> - [ ]  
+> - [ ]  Delete each connection from Query if table if is not there.
 > - [ ] Starts the check of if the workbook is fully prepared when opening the file, then asks if want to prepare it.
 > - [ ]  
 
