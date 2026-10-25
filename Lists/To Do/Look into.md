@@ -1,18 +1,8 @@
 ### Applications
 
--ㅤDropboxㅤㅤㅤㅤㅤㅤㅤㅤㅤ  ㅤ→ㅤNextcloud
--ㅤYoutube Musicㅤㅤㅤㅤㅤㅤ   ㅤ→ㅤNavidrome
--ㅤSpotifyㅤㅤㅤㅤㅤㅤㅤㅤ            →   Jellyfin ( Android )
--ㅤGoogle Photosㅤㅤㅤㅤㅤㅤ   ㅤ→ㅤImmich
--ㅤAdobe Illustraterㅤㅤㅤㅤ    ㅤ   →ㅤInkscape
--ㅤAdobe Indesignㅤㅤㅤㅤ     ㅤㅤ→ㅤScribus
--ㅤFigmaㅤㅤㅤㅤㅤㅤㅤㅤ      ㅤㅤ→ㅤPenpot
--ㅤFL Studioㅤㅤㅤㅤㅤ         ㅤㅤㅤ→ㅤLMMS
--ㅤPremier Proㅤㅤㅤㅤㅤㅤ         ㅤ→ㅤShotcutㅤ→ㅤKdenliveㅤ→ㅤDavinciㅤResolve
--ㅤGmail/Outlookㅤㅤㅤㅤ        ㅤㅤ→ㅤThunderbird
--ㅤVLCㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ       ㅤ→ㅤMPV
--ㅤVisual Studioㅤㅤㅤㅤㅤ       ㅤㅤ→ㅤVSCodium
--ㅤWinrarㅤㅤㅤㅤㅤㅤㅤㅤ      ㅤㅤ→ㅤ7zip
+-ㅤOS  → Linux 
+-ㅤ
+-ㅤ
 -ㅤNotepadㅤㅤㅤㅤㅤㅤㅤ      ㅤㅤ→ㅤNotepad++
 -ㅤEbook Managerㅤㅤㅤㅤㅤㅤ     →ㅤCalibre
 -ㅤNotebookㅤㅤㅤㅤㅤㅤㅤㅤ    ㅤ→ㅤJoplin
@@ -32,3 +22,17 @@
 -ㅤVideo Convert/Compressㅤ ㅤㅤ→ㅤHandㅤBreak
 -ㅤScreenshot/recorderㅤㅤㅤㅤ  ㅤ→ㅤShareXㅤ(ㅤeditingㅤautomationㅤsystemㅤ)
 -ㅤFile Managerㅤㅤㅤㅤㅤㅤㅤㅤㅤ→ㅤTotalㅤCommander
+
+-ㅤDropboxㅤㅤㅤㅤㅤㅤㅤㅤㅤ  ㅤ→ㅤNextcloud
+-ㅤYoutube Musicㅤㅤㅤㅤㅤㅤ   ㅤ→ㅤNavidrome
+-ㅤSpotifyㅤㅤㅤㅤㅤㅤㅤㅤ            →   Jellyfin ( Android )
+-ㅤGoogle Photosㅤㅤㅤㅤㅤㅤ   ㅤ→ㅤImmich
+-ㅤAdobe Illustraterㅤㅤㅤㅤ    ㅤ   →ㅤInkscape
+-ㅤAdobe Indesignㅤㅤㅤㅤ     ㅤㅤ→ㅤScribus
+-ㅤFigmaㅤㅤㅤㅤㅤㅤㅤㅤ      ㅤㅤ→ㅤPenpot
+-ㅤFL Studioㅤㅤㅤㅤㅤ         ㅤㅤㅤ→ㅤLMMS
+-ㅤPremier Proㅤㅤㅤㅤㅤㅤ         ㅤ→ㅤShotcutㅤ→ㅤKdenliveㅤ→ㅤDavinciㅤResolve
+-ㅤGmail/Outlookㅤㅤㅤㅤ        ㅤㅤ→ㅤThunderbird
+-ㅤVLCㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ       ㅤ→ㅤMPV
+-ㅤVisual Studioㅤㅤㅤㅤㅤ       ㅤㅤ→ㅤVSCodium
+-ㅤWinrarㅤㅤㅤㅤㅤㅤㅤㅤ      ㅤㅤ→ㅤ7zip
