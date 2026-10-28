@@ -72,6 +72,8 @@
 > 	- [ ] Medisport
 > 	- [ ] Bonitas
 > - [ ] Auto download pdf/csv, sort to right place. Some Pharmacies have some data emailed that we usually download, doing this will take some time away from download.  : >
+> - [ ] When downloaded, check what Pharmacy it belongs to and move it to it's folder
+> - [ ] When downloaded, check what Pharmacy it belongs to and move the email it came from to that folder in Outlook.
 
 > [!question] Look into / Ideas
 > - [ ] Sort / Organize email by recipient
