@@ -46,7 +46,8 @@
 > - [ ] Enable query properties of Master table: "Refresh data when opening the file", maybe?
 > - [ ]  Delete each connection from Query if table if is not there.
 > - [ ] Starts the check of if the workbook is fully prepared when opening the file, then asks if want to prepare it.
-> - [ ]  
+> - [ ]  Make sure the print tiles/rows are correct for Banking and Queries
+> - [ ] 
 
 > [!question] Ideas
 > - Give list of functions as you open workbook? ( might only be actually time-saving when integrated to work with outside of excel ... )
