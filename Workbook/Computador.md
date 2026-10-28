@@ -62,6 +62,11 @@
 
 > [!NOTE] Ideas
 > - Goes through each excel file in the folder, discerns which medical aid/macro it needs, then puts all usable information into a separate excel file with: reference - claim - paid - reason ( if possible ) ; Medical aid or such - Statement Date - Statement Total. Then onto the next file, inserting usable information into the same separate excel file.
+> 
+> Pharmacies:
+> - Universal 
+> 	- CGMS
+> 	- Massmart
 
 ## Email Automation
 
