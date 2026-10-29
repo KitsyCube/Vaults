@@ -1,0 +1,1 @@
+Give chance tickets/stickers/things to hand in and use/win another date, in art packages.
