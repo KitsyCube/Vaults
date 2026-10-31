@@ -59,6 +59,7 @@
 > - Master lookup table might not work overall? Could have conflicts, works fine with Youngs and Hibberdene, not sure with the rest. 
 > - Put Age Analysis Copy into Computador workbook for copying from. ( Only if the opening and closing when running the macro to copy from it doesn't produce any lag )
 > - Change (name)Exists booleans and their checks to be simpler / just check for the name instead of needing the boolean.
+> - Change ‘masterRefs’ variable into something more standardized for constants?
 
 ## Files Prep/Extraction Automation
 
