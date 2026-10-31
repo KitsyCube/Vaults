@@ -11,3 +11,4 @@
 	- Nautilus
 - Ben 10
 - ![[Pasted image 20260829205942.png|433]]
+- Endocopia, Markiplier Part 3 52:53 https://youtu.be/D1rzb5J-YDk?t=3124
