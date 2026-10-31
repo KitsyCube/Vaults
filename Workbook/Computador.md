@@ -60,6 +60,7 @@
 > - Put Age Analysis Copy into Computador workbook for copying from. ( Only if the opening and closing when running the macro to copy from it doesn't produce any lag )
 > - Change (name)Exists booleans and their checks to be simpler / just check for the name instead of needing the boolean.
 > - Change ‘masterRefs’ variable into something more standardized for constants?
+> - Prompt to copy Age Analysis from a separate worksheet if there is none available.
 
 ## Files Prep/Extraction Automation
 
