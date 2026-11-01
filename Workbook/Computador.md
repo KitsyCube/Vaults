@@ -1,4 +1,7 @@
 ## To Do
+- [ ] Medscheme registrations
+- [ ] Medshield registrations
+- [ ] Sizwe Springmed - new login needed.
 - [ ] Keyhealth Springmed - password expired.
 
 
@@ -7,6 +10,7 @@
 > [!todo] To-do
 > MISC:
 > - [ ] Have a check for any claims that need seeing to, such as those that have bean paid only in a later month, but the user doesn’t check usually. So change worksheet tab colour to red or suches.
+> - [ ] Ask pharmacies up to what difference in Claim - Paid do they not care for? Easy to change this in macro. Default R15.
 > - [ ] Make the backup function work on the active page so it can work anywhere.
 > - [x] Make varianced error column to be a function of (claim - paid), before it adds in headers.
 > - [x] Make all varianced error have their paid column be a VLookup. This will also prevent accidental double statement downloads changing payments unduly.
@@ -27,7 +31,7 @@
 > - [ ] Main macro to use Medical Aid scheme code table. Be sure to turn it into an array then use it.
 > - [ ] Auto "Waiting for remits via email" for unpaid in select groups.
 > - [ ] After the macro runs, filter normally to leave out fully paid claims, for user to start querying.
-> - [ ] Have reference tables have an extra column that includes the stated reason if there is one, coming from file prep
+> - [ ] Have reference tables have an extra column that includes the stated reason if there is one, coming from file prep macro. Less querying. :3 
 > - [ ] Have reference tables have an extra column of where the data comes from ( mostly filename ), so it is easy to check for querying from the file directly, in cases where the site doesn’t work or doesn’t have them.
 > 
 > #### DATA SHEET:
