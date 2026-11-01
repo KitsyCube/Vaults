@@ -1,3 +1,7 @@
+## To Do
+- [ ] Keyhealth Springmed - password expired.
+
+
 ## Excel Automation
 
 > [!todo] To-do
@@ -23,6 +27,8 @@
 > - [ ] Main macro to use Medical Aid scheme code table. Be sure to turn it into an array then use it.
 > - [ ] Auto "Waiting for remits via email" for unpaid in select groups.
 > - [ ] After the macro runs, filter normally to leave out fully paid claims, for user to start querying.
+> - [ ] Have reference tables have an extra column that includes the stated reason if there is one, coming from file prep
+> - [ ] Have reference tables have an extra column of where the data comes from ( mostly filename ), so it is easy to check for querying from the file directly, in cases where the site doesn’t work or doesn’t have them.
 > 
 > #### DATA SHEET:
 > - [ ] Auto transfer available queries. Make sure to delete current month's queries if there are, before transferring.
@@ -108,7 +114,7 @@
 > [!fail] Cannot
 > - 
 
-# Company
+## Company
 
 > [!NOTE] Ideas
 > Site for pharmacies to look at their information whenever?
