@@ -2,8 +2,10 @@
 
 > [!todo] To-do
 > MISC:
+> - [ ] Have a check for any claims that need seeing to, such as those that have bean paid only in a later month, but the user doesn’t check usually. So change worksheet tab colour to red or suches.
+> - [ ] Make the backup function work on the active page so it can work anywhere.
 > - [x] Make varianced error column to be a function of (claim - paid), before it adds in headers.
-> - [x] Make all varianced error have their paid column be a vlookup. This will also prevent accidental double statement downloads changing payments unduly.
+> - [x] Make all varianced error have their paid column be a VLookup. This will also prevent accidental double statement downloads changing payments unduly.
 > - [ ] Include a more robust check on if paid column was manually entered,,, somehow. Maybe check if it is a function or not?
 > - [x] Change the master range to be just "master" instead of "master_2", for slightly easier set-up.
 > - [ ] Set the minimum amount of variance to be variable, instead of hardcoded.
@@ -20,7 +22,7 @@
 > - [ ] Create Medical Aid scheme code table in MACRO HOLDER that macros use, instead of it being in code, so it is easily edited. 
 > - [ ] Main macro to use Medical Aid scheme code table. Be sure to turn it into an array then use it.
 > - [ ] Auto "Waiting for remits via email" for unpaid in select groups.
-> - [ ] Make the backup function work on the active page so it can work anywere.
+> - [ ] After the macro runs, filter normally to leave out fully paid claims, for user to start querying.
 > 
 > #### DATA SHEET:
 > - [ ] Auto transfer available queries. Make sure to delete current month's queries if there are, before transferring.
