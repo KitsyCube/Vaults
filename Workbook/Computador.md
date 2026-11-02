@@ -33,7 +33,6 @@
 > - [ ] After the macro runs, filter normally to leave out fully paid claims, for user to start querying.
 > - [ ] Have reference tables have an extra column that includes the stated reason if there is one, coming from file prep macro. Less querying. :3 
 > - [ ] Have reference tables have an extra column of where the data comes from ( mostly filename ), so it is easy to check for querying from the file directly, in cases where the site doesn’t work or doesn’t have them.
-> - [ ] Have a macro change − to -.
 > 
 > #### DATA SHEET:
 > - [ ] Auto transfer available queries. Make sure to delete current month's queries if there are, before transferring.
@@ -76,6 +75,9 @@
 > - Prompt to copy Age Analysis from a separate worksheet if there is none available.
 
 ## Files Prep/Extraction Automation
+
+> [!info] To-do
+> - [ ] Have a macro change − to -.
 
 > [!NOTE] Ideas
 > - Goes through each excel file in the folder, discerns which medical aid/macro it needs, then puts all usable information into a separate excel file with: reference - claim - paid - reason ( if possible ) ; Medical aid or such - Statement Date - Statement Total. Then onto the next file, inserting usable information into the same separate excel file.
