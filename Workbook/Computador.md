@@ -34,28 +34,23 @@
 > - [ ] Have reference tables have an extra column that includes the stated reason if there is one, coming from file prep macro. Less querying. :3 
 > - [ ] Have reference tables have an extra column of where the data comes from ( mostly filename ), so it is easy to check for querying from the file directly, in cases where the site doesn’t work or doesn’t have them.
 
-
-
 > [!NOTE] DATA SHEET:
 > - [ ] Auto transfer available queries. Make sure to delete current month's queries if there are, before transferring.
 > - [ ] Update data in MASTER table at the start of the process.
 > - [ ] 
 
-
- #### AGE SHEET:
- - [ ] Add age macro to function at the end of the Main macro.
- - [ ] Age macro has the columns be variabled, so can change as needed.
- - [ ] Age macro figures it's "Medical Aid Figures" month part and it's sheet name by the current sheet the Main macro is being used in.
- - [ ] Auto make a report. Remember to keep cells formatting.
- - [ ] When making AGE worksheet macro, have it be an auto updating function instead of a one-time addition. 
- - [ ] Age macro to use Medical Aid scheme code table, instead of using the structure of the data sheet.
-> - [ ] Start of Age Sheet ( if any are true, start process ):
-> 	- If current sheet is an age sheet 
-> 	- If current sheet is the data sheet 
-> 		If data sheet has an age sheet already go there first
+> [!NOTE] AGE SHEET:
+>  - [ ] Add age macro to function at the end of the Main macro.
+>  - [ ] Age macro has the columns be variabled, so can change as needed.
+>  - [ ] Age macro figures it's "Medical Aid Figures" month part and it's sheet name by the current sheet the Main macro is being used in.
+>  - [ ] Auto make a report. Remember to keep cells formatting.
+>  - [ ] When making AGE worksheet macro, have it be an auto updating function instead of a one-time addition. 
+>  - [ ] Age macro to use Medical Aid scheme code table, instead of using the structure of the data sheet.
+>  - [ ] Start of Age Sheet ( if any are true, start process ):
+>  	- If current sheet is an age sheet 
+>  	- If current sheet is the data sheet 
+>  		- If data sheet has an age sheet already go there first
 > 	- Error MsgBox, not selected compatible worksheet, check to see if user wants make a report of latest data sheet or if it was mistake. Oops.
-> - [ ] 
-
 
 > [!note] PREPARE WORKBOOK:
 > - [ ] Extend age sheet totals ranges one above and below.
