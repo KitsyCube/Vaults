@@ -128,3 +128,8 @@
 > Site for pharmacies to look at their information whenever?
 
 
+
+## Miscellaneous
+
+> [!NOTE] 
+> - [ ] Make menu macro more re-useable, and pretty-ify it.
