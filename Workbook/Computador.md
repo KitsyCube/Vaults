@@ -133,3 +133,5 @@
 
 > [!NOTE] 
 > - [ ] Make menu macro more re-useable, and pretty-ify it.
+> - [ ] Make different types of menus that is called as an option, i.e.:
+>       ShowListMenu(ByVal simpleMenu As String, ByVal selectionList As Variant) As String
