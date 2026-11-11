@@ -6,4 +6,7 @@
 > - [ ] Future? No Thanks!
 > - [ ] STUNTBOOST
 > - [ ] 10S FOREVER
+> - [ ] PsVita - Gravity Rush
+> - [ ] PsVita - TearAway? Tera Way?
+> - [ ] 
 
